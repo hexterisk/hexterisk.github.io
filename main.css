@@ -246,7 +246,7 @@ a:active
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex; 
-    aliign-items: flex-end;
+    align-items: flex-end;
     -webkit-align-items: flex-end;
     justify-content: center;
     -webkit-justify-content: center;
@@ -406,6 +406,6 @@ a:active
 	.appicon
 	{	
 		width: 120px;
-		height: 120px;
+		height: 135px;
 	}
 }
